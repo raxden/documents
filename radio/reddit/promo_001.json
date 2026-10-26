@@ -1,11 +1,23 @@
 {
-  "channels": [
-    "IMadeThis",
-    "AppBuilding",
-    "ShowYourApp",
-    "promoteMyApp",
-    "droidappshowcase",
-    "FreeAppReviews"
+  "subreddits": [
+    {
+      "name": "IMadeThis"
+    },
+    {
+      "name": "AppBuilding"
+    },
+    {
+      "name": "ShowYourApp"
+    },
+    {
+      "name": "promoteMyApp"
+    },
+    {
+      "name": "droidappshowcase"
+    },
+    {
+      "name": "FreeAppReviews"
+    }
   ],
   "image": "https://github.com/raxden/documents/blob/master/radio/reddit/promo_001.webp",
   "title": "RadioSquare: FM radio without ads",
